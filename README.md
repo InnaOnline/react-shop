@@ -1,3 +1,3 @@
 # React Shop (Frontend)
 
-[Demo]{https://innaonline.github.io/react-shop}.
+[Demo](https://innaonline.github.io/react-shop)
